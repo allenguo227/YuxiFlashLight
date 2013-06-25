@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YuxiFlashLight</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_flash_light">FlashLight</string>
+    <string name="exit">退出</string>
+    <string name="title_activity_sosflash_light">SOSFlashLightActivity</string>
+    <string name="title_activity_screen_light">ScreenLight</string>
+    <string name="red">红</string>
+    <string name="orange">橙</string>
+    <string name="yellow">黄</string>
+    <string name="green">绿</string>
+    <string name="blue">蓝</string>
+    <string name="purple">紫</string>
+    <string name="white">白</string>
+    <string name="black">黑</string>
+    <string name="cyan">青</string>
+
+</resources>
